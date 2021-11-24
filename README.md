@@ -3,14 +3,14 @@ Proyecto final de las poderosas.
 
 ## ○ Software Requirements con al menos 3 Casos de Uso por Requerimiento
 
-##○ Plan de Calidad
+## ○ Plan de Calidad
 
-##○ Arquitectura y justificación
+## ○ Arquitectura y justificación
 
-##○ Metodología y justificación
+## ○ Metodología y justificación
 
-##○ Código del proyecto
+## ○ Código del proyecto
 
-##○ Documentación para replicar
+## ○ Documentación para replicar
 
-##○ Propuesta económica
+## ○ Propuesta económica
