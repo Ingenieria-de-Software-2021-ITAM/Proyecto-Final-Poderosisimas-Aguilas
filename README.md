@@ -17,9 +17,9 @@ Proyecto final de las poderosas.
   #### Prioridad
   Media
   #### Estímulos
-  El usuario deberá acceder al módulo de creacion de contenido por medio de un botón en la página principal. 
-  #### Requerimientos funcionales
-  
+  El usuario deberá acceder al módulo de creacion de contenido por medio de un botón en la página principal. Dentro de este se encontrará con los textboxes necesarios para poder ingresar su información. 
+  #### Requerimientos funcionales y caso de uso
+  Cuando el usuario entre al módulo de creación de contenido, este se encontrará con 3 textboxes, cadda uno con su respectiva etiqueta, e ingresará un título, una descripcción, y si lo desea una imagen para poder compartir su sugerencia con el ITAM y los usuarios de nuestra página. 
 ### 1.3. Feed de sugerencia
   #### Descripción 
 
