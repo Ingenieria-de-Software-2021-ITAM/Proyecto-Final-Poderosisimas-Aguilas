@@ -4,8 +4,14 @@ Proyecto final de las poderosas.
 ## ○ Software Requirements con al menos 3 Casos de Uso por Requerimiento
 ### 1.1 Login con cuenta del itam
   #### Descripción 
-  prioridad
-  ####
+  Funcionalidad que permite que el usuario tenga acceso al programa por medio de su correo institucional y una contraseña única que decidirá al momento de registrar su cuenta con nuestro programa. 
+  #### Prioridad
+  
+  #### Estímulos
+  
+  #### Requerimientos funcionales
+  
+  
 ### 1.2. Post de sugerencia
 ### 1.3. Feed de sugerencia
 ### 1.4. Comentario a la sugerencia
