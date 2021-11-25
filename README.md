@@ -89,15 +89,17 @@ Proyecto final de las poderosas águilas del América. En este proyecto explicar
     REQ-2: Lista de propuestas cumplidas dadas por el mismo ITAM
 ### 1.8. Ver usuario
   #### Descripción 
-
+    Funcionalidad que permite que el usuario vea su perfil y los datos que ha dado al programa, como su correo, su contraseña o su foto de perfil, así como los usuarios que sigue y que lo siguen. 
   #### Prioridad
-  
+    Alta
   #### Estímulos
-  
+    El usuario dará click en un botón que aparecerá en la parte izquierda de su feed para acceder a esta página.
   #### Caso de uso
-  
+    Cuando el usuario de click en el botón y entre, apareceán sus datos y dos botones, uno par aver a la gente que sigue, y otro para ver a la gente que lo sigue. Al hacer click en estos botones, se desplegará la lista de usuarios. 
   #### Requerimientos funcionales
-
+    REQ-1: Botón para ver usuarios seguidos
+    REQ-2: Botón para ver usuarios que sigue
+    REQ-3: Lista de datos del usuario desplegada
 ## ○ Plan de Calidad
 
 ## ○ Arquitectura y justificación
