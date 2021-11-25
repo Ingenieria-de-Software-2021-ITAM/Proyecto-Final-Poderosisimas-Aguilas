@@ -1,5 +1,5 @@
 # Proyecto-Final-Poderosisimas-Aguilas
-Proyecto final de las poderosas águilas del América. En este proyecto explicaremos como desarrollaríamos un software para que los estudiantes del ITAM puedan 
+Proyecto final de las poderosas águilas del América. En este proyecto explicaremos como desarrollaríamos un software para que los estudiantes del ITAM puedan dar sugerencias para convertir a su universidad en un mejor lugar. 
 
 ## ○ Software Requirements con al menos 3 Casos de Uso por Requerimiento
 ### 1.1 Login con cuenta del itam
