@@ -3,6 +3,7 @@ Proyecto final de las poderosas.
 
 ## ○ Software Requirements con al menos 3 Casos de Uso por Requerimiento
 ### 1.1 Login con cuenta del itam
+  #### Descripción 
 ### 1.2. Post de sugerencia
 ### 1.3. Feed de sugerencia
 ### 1.4. Comentario a la sugerencia
