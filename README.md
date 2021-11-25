@@ -6,18 +6,18 @@ Proyecto final de las poderosas.
   #### Descripción 
   Funcionalidad que permite que el usuario tenga acceso al programa por medio de su correo institucional y una contraseña única que decidirá al momento de registrar su cuenta con nuestro programa. 
   #### Prioridad
-  
+  Alta
   #### Estímulos
   Cuando el usuario entre a nuestra página, de no tener un login guardado se le redigirá a la página de login para que ingrese su correo y contraseña. 
-  #### Requerimientos funcionales
-  
-### 1.2. Post de sugerencia
+  #### Requerimientos funcionales y caso de uso
+  El usuario debería de ver una pantalla con dos textboxes, cada uno con una etiqueta que indique que información ingresar. En una de las cajas se debería de ingresar el correo institucional y en el otro la contraseña utilizada. 
+### 1.2. Crear Post de sugerencia
   #### Descripción 
-
+  Funcionalidad que permite que un usuario cree un post para hacer una sugerencia al ITAM. Este post puede tener: Título, descripcción, imagen. 
   #### Prioridad
-  
+  Media
   #### Estímulos
-  
+  El usuario deberá acceder al módulo de creacion de contenido por medio de un botón en la página principal. 
   #### Requerimientos funcionales
   
 ### 1.3. Feed de sugerencia
