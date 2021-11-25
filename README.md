@@ -8,7 +8,7 @@ Proyecto final de las poderosas.
   #### Prioridad
   
   #### Estímulos
-  
+  Cuando el usuario entre a nuestra página, de no tener un login guardado se le redigirá a la página de login para que ingrese su correo y contraseña. 
   #### Requerimientos funcionales
   
 ### 1.2. Post de sugerencia
