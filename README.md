@@ -11,15 +11,77 @@ Proyecto final de las poderosas.
   
   #### Requerimientos funcionales
   
-  
 ### 1.2. Post de sugerencia
+  #### Descripción 
+
+  #### Prioridad
+  
+  #### Estímulos
+  
+  #### Requerimientos funcionales
+  
 ### 1.3. Feed de sugerencia
+  #### Descripción 
+
+  #### Prioridad
+  
+  #### Estímulos
+  
+  #### Requerimientos funcionales
+  
 ### 1.4. Comentario a la sugerencia
+  #### Descripción 
+
+  #### Prioridad
+  
+  #### Estímulos
+  
+  #### Requerimientos funcionales
+  
 ### 1.5. Like a la sugerencia
+  #### Descripción 
+
+  #### Prioridad
+  
+  #### Estímulos
+  
+  #### Requerimientos funcionales
+  
 ### 1.6. Rankings de sugerencia
+  #### Descripción 
+
+  #### Prioridad
+  
+  #### Estímulos
+  
+  #### Requerimientos funcionales
+  
 ### 1.7. Página de trending de sugerencia
+  #### Descripción 
+
+  #### Prioridad
+  
+  #### Estímulos
+  
+  #### Requerimientos funcionales
+  
 ### 1.8. Página de propuestas cumplidas
+  #### Descripción 
+
+  #### Prioridad
+  
+  #### Estímulos
+  
+  #### Requerimientos funcionales
+  
 ### 1.9. Ver usuario
+  #### Descripción 
+
+  #### Prioridad
+  
+  #### Estímulos
+  
+  #### Requerimientos funcionales
 
 ## ○ Plan de Calidad
 
