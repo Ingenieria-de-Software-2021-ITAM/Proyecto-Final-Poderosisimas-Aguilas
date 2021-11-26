@@ -20,21 +20,21 @@ Proyecto final de las poderosas águilas del América. En este proyecto explicar
   #### Prioridad
     Media
   #### Estímulos
-    El usuario deberá acceder al módulo de creacion de contenido por medio de un botón en la página principal. Dentro de este se encontrará con los textboxes necesarios para poder ingresar su información. 
+    El usuario deberá acceder al módulo de creacion de contenido por medio de un botón en la página de sugerencias. Dentro de este se encontrará con los textboxes necesarios para poder ingresar su información. 
   #### Caso de uso
-    Cuando el usuario entre al módulo de creación de contenido, este se encontrará con 3 textboxes, cadda uno con su respectiva etiqueta, e ingresará un título, una descripcción, y si lo desea una imagen para poder compartir su sugerencia con el ITAM y los usuarios de nuestra página por medio de un botón. 
+    Cuando el usuario entre al módulo de creación de contenido, este se encontrará con 3 textboxes, cada uno con su respectiva etiqueta, e ingresará un título, una descripción, y si lo desea una imagen para poder compartir su sugerencia con el ITAM y los usuarios de nuestra página por medio de un botón. El usuario de igual manera seleccionará a que categoria pertenece la sugerencia.
   #### Requerimientos funcionales
     REQ-1: Cajas de texto para ingresar la información
     REQ-2: Botón para publicar el contenido
 ### 1.3. Feed de sugerencia
   #### Descripción 
-    Funcionalidad que permite que los usuarios vean sugerencias de los amigos y profesores específicos que ellos siguen o con con los que ellos tienen relación
+    Funcionalidad que permite que los usuarios vean sugerencias de otros usuarios según la categoria deseada.
   #### Prioridad
     Media
   #### Estímulos
-    Cuando el usuario de click en el botón de login, se le será direccionado a esta página. Dentro de ella podrá interactuar con posts por medio de reacciones predeterminadas. 
+    Cuando el usuario de click en el botón de propuestas, se le será direccionado a esta página. Dentro de ella podrá interactuar con posts por medio de reacciones predeterminadas. 
   #### Caso de uso
-    Cuando el usuario entre a la página, será automaticamente llevado a su feed donde podrá interactuar con los posts por medio de un botón desglosable con reacciones que indiquen que le gusta, que cree que ayudaría al ITAM, o que piensa necesita más desarrollo. 
+    Cuando el usuario entre a la página, será automaticamente llevado a un feed donde podrá interactuar con los posts por medio de un botón desglosable con reacciones que indiquen que le gusta, que cree que ayudaría al ITAM, o que piensa necesita más desarrollo. 
   #### Requerimientos funcionales
     REQ-1: Botónes de reacción para cada post
     REQ-2: Barra de scroll para moverse entre posts
@@ -42,39 +42,42 @@ Proyecto final de las poderosas águilas del América. En este proyecto explicar
     
 ### 1.4. Reacción a la sugerencia
   #### Descripción 
-    Funcionalidad que permite a los usuarios ver y asignar diferentes reacciones (like, ayudaría al ITAM, necesita desarrollo) a las sugerencias de la comunidad. 
+    Funcionalidad que permite a los usuarios ver y asignar una reaccion de me gusta a las sugerencias de la comunidad. 
   #### Prioridad
     Media
   #### Estímulos
-    El usuario deberá de poder ver las reacciones por medio de botones en cada post de su feed. Al darles click, se asigna un valor a la interacción entre el usuario y el post. 
+    El usuario deberá de poder ver las reacciones por medio de un boton en cada post de su feed. Al darle click, se asigna un valor a la interacción entre el usuario y el post. 
   #### Caso de uso
-    Cuando el usuario entre a su feed, en cada post verá las 3 opcciones de botón, y deberá poder darles click para indicar que tuvo una reacción similar a dicho post. 
+    Cuando el usuario entre a su feed, en cada post verá el botón de me gusta, y deberá poder darles click para indicar que tuvo una reacción similar a dicho post. 
   #### Requerimientos funcionales
     REQ-1: Botón like
-    REQ-2: Botón le serviría al ITAM
-    REQ-3: Botón necesita desarrollo
-### 1.5. Rankings de sugerencia
-  #### Descripción 
-    Funcionalidad que permite que los usuarios entren a una página dedicada de rankings para entrar a ver los posts con los mejores "ratings" en la categoría de likes y de "le serviría al ITAM". 
+### 1.5 Comentario a la sugerencia
+  #### Descripción
+    Funcionalidad que permite a los usuarios hacer comentarios sobre las sugerencias publicadas por la comunidad.
   #### Prioridad
-    Baja
+    Media
+  #### Estímulos
+    El usuario deberá poder ver la opción de hacer un comentario por medio de un boton en cada post de su feed. Al darle click, el textbox para hacer su comentario se abrirá.
+  #### Caso de uso
+    Cuando el usuario entre asu feed, en cada post verá el botón para comentar, y deberá poder darle click para agregar un comentario a dicho post.
+  #### Requerimientos funcionales
+    REQ-1: Botón comentario
+    REQ-2: Textbox comentario
+    REQ-3: Botón publicar comentario
+### 1.6. Categorias de sugerencia
+  #### Descripción 
+    Funcionalidad que permite que los usuarios entren a varias página dedicadas a diferentes categorias para entrar a ver los posts de la categoría deseada.
+  #### Prioridad
+    Media
   #### Estímulos
     El usuario será redireccionado a esta págian por medio de un botón que aparecerá en la sección de botones de la página de feed. 
   #### Caso de uso
-    El usuario entrará a la pàgina y verá los rankings en dos listas separadas, cada una con su respectiva etiqueta.
+    El usuario entrará a la pàgina y verá las categorias, cada una con su respectiva etiqueta.
   #### Requerimientos funcionales
-    REQ-1: Lista likes
-    REQ-2: Lista "le serviría al ITAM"
-### 1.6. Página de trending de sugerencia
-  #### Descripción 
-    Funcionalidad que permite que el usuario entre a ver los posts que recientemente han tenido un gran número de reacciones de like o de "le serviría al ITAM" e interactúe con ellos.
-  #### Prioridad
-    Media
-  #### Estímulos
-    Por medio de un botón que aparecerá del lado izquierdo de su feed, el usuario accederá a esta página donde verá los posts que recientemente han tenido un gran número de reacciones de like o de "le serviría al ITAM" y les pueda asignar su propia reacción usando el mismo sistema de botones que tiene su feed.
-  #### Requerimientos funcionales
-    REQ-1: Botones de reacción para los posts
-    REQ-2: Lista de posts "trending" en las últimas 3 semanas. 
+    REQ-1: Botón categoría 1
+    REQ-1: Botón categoría 2
+    REQ-1: Botón categoría 3
+    REQ-1: Botón categoría 4
 ### 1.7. Página de propuestas cumplidas
   #### Descripción 
     Funcionalidad que permite que la comunidad vea una lista de las propuestas que el ITAM tomó en cuenta y cumplió. 
@@ -87,7 +90,20 @@ Proyecto final de las poderosas águilas del América. En este proyecto explicar
   #### Requerimientos funcionales
     REQ-1: Barra de scroll 
     REQ-2: Lista de propuestas cumplidas dadas por el mismo ITAM
-### 1.8. Ver usuario
+### 1.8. Ver usuarios
+  #### Descripción 
+    Funcionalidad que permite buscar a otros usuarios y demuestra sus perfiles.
+  #### Prioridad
+    Media
+  #### Estímulos
+    El usuario dará click en un botón que aparecerá en la barra de menú para acceder a esta página.
+  #### Caso de uso
+    Cuando el usuario de click en el botón y entre, apareceán varios usuarios, al igual que una barra de busqueda para encontrar a un usuario en específico. Al seleccionar a un usuario se desplegara la información de este usuario al igual que sugerencias que ha publicado.
+  #### Requerimientos funcionales
+    REQ-1: Serch bar para buscar a los usuarios
+    REQ-2: Datos de el usuario seleccionado
+    REQ-3: Lista de datos de usuarios
+### 1.9. Ver usuario
   #### Descripción 
     Funcionalidad que permite que el usuario vea su perfil y los datos que ha dado al programa, como su correo, su contraseña o su foto de perfil, así como los usuarios que sigue y que lo siguen. 
   #### Prioridad
