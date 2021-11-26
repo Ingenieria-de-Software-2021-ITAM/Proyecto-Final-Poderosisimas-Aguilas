@@ -103,9 +103,9 @@ Proyecto final de las poderosas águilas del América. En este proyecto explicar
 ## ○ Plan de Calidad
 
 ## ○ Arquitectura y justificación
-
+Decidimos usar una arquitectura por microservicios mezclada con eventos, puedes verlo [Aqui](Arquitectura.md)
 ## ○ Metodología y justificación
-
+Decidimos usar una metodologia por prototipo, para mas detalles [Aqui](Metodologia.md)
 ## ○ Código del proyecto
 
 ## ○ Documentación para replicar
