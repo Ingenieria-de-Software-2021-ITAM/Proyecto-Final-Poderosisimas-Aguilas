@@ -34,7 +34,7 @@ Proyecto final de las poderosas águilas del América. En este proyecto explicar
   #### Estímulos
     Cuando el usuario de click en el botón de propuestas, se le será direccionado a esta página. Dentro de ella podrá interactuar con posts por medio de reacciones predeterminadas. 
   #### Caso de uso
-    Cuando el usuario entre a la página, será automaticamente llevado a un feed donde podrá interactuar con los posts por medio de un botón desglosable con reacciones que indiquen que le gusta, que cree que ayudaría al ITAM, o que piensa necesita más desarrollo. 
+    Cuando el usuario entre a la página, será automaticamente llevado a un feed donde podrá interactuar con los posts por medio de un botón desglosable con reacciones que indiquen que le gusta o dejar un comentario. 
   #### Requerimientos funcionales
     REQ-1: Botónes de reacción para cada post
     REQ-2: Barra de scroll para moverse entre posts
@@ -80,13 +80,13 @@ Proyecto final de las poderosas águilas del América. En este proyecto explicar
     REQ-1: Botón categoría 4
 ### 1.7. Página de propuestas cumplidas
   #### Descripción 
-    Funcionalidad que permite que la comunidad vea una lista de las propuestas que el ITAM tomó en cuenta y cumplió. 
+    Funcionalidad que permite que la comunidad vea una serie de las propuestas que el ITAM tomó en cuenta y cumplió. 
   #### Prioridad
     Baja
   #### Estímulos
-    El usuario accederá a esta página por medio de un botón que aparecerá a la izquierda de su feed principal
+    El usuario accederá a esta página por medio de un botón que aparecerá hasta arriba a la derecha de la página.
   #### Caso de uso
-    El usuario entrará a esta página por medio del botón y podrá ver los rankings en una lista vertical, donde podrá ir hacia abajo y hacia arriba por medio de una barra de scroll. 
+    El usuario entrará a esta página por medio del botón y podrá ver una serie de propuestas que se han cumplído en varios cuadros.
   #### Requerimientos funcionales
     REQ-1: Barra de scroll 
     REQ-2: Lista de propuestas cumplidas dadas por el mismo ITAM
@@ -96,7 +96,7 @@ Proyecto final de las poderosas águilas del América. En este proyecto explicar
   #### Prioridad
     Media
   #### Estímulos
-    El usuario dará click en un botón que aparecerá en la barra de menú para acceder a esta página.
+    El usuario dará click en un botón que aparecerá en la barra de menú superior para acceder a esta página.
   #### Caso de uso
     Cuando el usuario de click en el botón y entre, apareceán varios usuarios, al igual que una barra de busqueda para encontrar a un usuario en específico. Al seleccionar a un usuario se desplegara la información de este usuario al igual que sugerencias que ha publicado.
   #### Requerimientos funcionales
