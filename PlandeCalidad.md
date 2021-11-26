@@ -3,6 +3,10 @@ TP-V1
 
 # 2.	References 
 Aquí van todos los documentos
+[Arquitectura](Arquitectura.md)
+[Estimaciones](EstimacionesAguilasPF.xlsx)
+[Metodología](Metodologia.md)
+
 
 # 3. Introduction
 Plan de calidad para el software diseñado para proponer proyectos al ITAM. Dentro de este documento encontrarán toda la información relevante de la aplicación.
