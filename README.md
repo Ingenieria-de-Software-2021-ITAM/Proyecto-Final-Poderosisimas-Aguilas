@@ -105,6 +105,29 @@ Proyecto final de las poderosas águilas del América. En este proyecto explicar
 ## ○ Arquitectura y justificación
 
 ## ○ Metodología y justificación
+Metodología
+Nuestra metodología empezara planteando los requerimientos y el análisis de mercado de la app.
+Una vez definido lo mencionado anteriormente empezaremos a diseñar el sistema. Este proceso ira en intervalos de diseño y revisión para mantener la eficacia lo más alta posible.
+Todo lo mencionado separo por pasos se vera de la siguiente forma:
+	
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Usaremos esta metodología porque es la que mejor nos permite desarrollar el sistema de la mejor forma, y mantener un sistema de revisión-actualización constante para no atrasar errores. Además de que es el que mejor se acopla a nuestra forma de trabajo.
+
 
 ## ○ Código del proyecto
 
