@@ -122,8 +122,8 @@ Haga click [Aqui](PlandeCalidad.md)
 Decidimos usar una arquitectura por microservicios mezclada con eventos, puedes verlo [Aqui](Arquitectura.md)
 ## ○ Metodología y justificación
 Decidimos usar una metodologia por prototipo, para mas detalles [Aqui](Metodologia.md)
-## ○ Código del proyecto
-
+## ○ Ejemplo del proyecto
+Hicímos una página web como prototipo, la puedes ver [aquí](PaginaWeb.md)
 ## ○ Documentación para replicar
 
 ## ○ Propuesta económica
