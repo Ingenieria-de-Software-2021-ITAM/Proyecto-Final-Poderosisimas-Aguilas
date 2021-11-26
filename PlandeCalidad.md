@@ -3,9 +3,9 @@ TP-V1
 
 # 2.	References 
 Aquí van todos los documentos
-[Arquitectura](Arquitectura.md)
-[Estimaciones](EstimacionesAguilasPF.xlsx)
-[Metodología](Metodologia.md)
+* [Arquitectura](Arquitectura.md)
+* [Estimaciones](EstimacionesAguilasPF.xlsx)
+* [Metodología](Metodologia.md)
 
 
 # 3. Introduction
