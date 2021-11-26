@@ -101,7 +101,7 @@ Proyecto final de las poderosas águilas del América. En este proyecto explicar
     REQ-2: Botón para ver usuarios que sigue
     REQ-3: Lista de datos del usuario desplegada
 ## ○ Plan de Calidad
-Haga click [Aqui](Plan de Calidad.md)
+Haga click [Aqui](Plan de Calidad.md) 
 ## ○ Arquitectura y justificación
 Decidimos usar una arquitectura por microservicios mezclada con eventos, puedes verlo [Aqui](Arquitectura.md)
 ## ○ Metodología y justificación
