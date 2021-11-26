@@ -89,7 +89,7 @@ El error que puede ocurrir es que uno del equipo se enferme o sufra un accidente
 Los únicos que tienen permiso para aprobar cosas son los siguientes integrantes:
 *	Rogelio Torres
 *	Jesús Valdés
-*	Fran Rivera
+*	Francisco Rivera
 *	Rodrigo Torres
 
 
