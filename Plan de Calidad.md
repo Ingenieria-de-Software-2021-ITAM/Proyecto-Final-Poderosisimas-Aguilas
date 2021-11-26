@@ -12,7 +12,6 @@ Funcionalidades que serán probadas:
 *	Login con cuenta del itam
 *	Post de sugerencia
 *	Feed de sugerencia
-*	Comentario a la sugerencia
 *	Like a la sugerencia
 *	Ranking de sugerencias
 *	Página de trending de sugerencias
@@ -38,8 +37,9 @@ Funcionalidades que serán probadas:
 *	Perfil del usuario
 
 # 8.Approach
-Las funcionalidades las probaremos por partes, aegurándonos que funcionen de manera correcta antes de seguir con la siguiente.
-
+Antes de comenzar, lo primero que harémos será la capacitación del personal correspondiente. Ya que tengamos todo planeado,  
+las funcionalidades que programaremos las probaremos por partes, asegurándonos que funcionen de manera correcta antes de seguir con la siguiente.
+Nos tomaremos un tiempo determinado entre cada bloque del proyecto para realizar las pruebas correctas y asegurarnos que nuestro código funciona bien.
 
 
 # 9. Item Pass /Fail Criteria 
@@ -64,7 +64,7 @@ El downtime dependerá de la gravedad del problema, si es un problema menor no h
 *	Prototypes
 
 # 12. Remaining Test Tasks
-*	Implementación de 
+*	Implementación de un botón en el cual puedas comparar dos propuestas/sugerencias al mismo tiempo
 
 
 # 13. Environmental needs
@@ -78,12 +78,10 @@ Se capacitará a todos los que trabajen en el proyecto, esta capacitación depen
 # 15.	Responsabilities
 El encargado del proyecto será el Project Manager, el será el encargado de supervisar, solucionar y de tomar las decisiones importantes.
 
-# 16.	Schedule
-
-# 17.	Planning Risks
+# 16.	Planning Risks
 El error que puede ocurrir es que uno del equipo se enferme o sufra un accidente, por lo que no podrá trabajar, en este caso, el Project Manager tendrá que llenar ese vacío. En caso de que no pueda continuar, se buscará contratar un reemplazo.
 
-# 18.	Approvals
+# 17.	Approvals
 Los únicos que tienen permiso para aprobar cosas son los siguientes integrantes:
 *	Rogelio Torres
 *	Jesús Valdés
