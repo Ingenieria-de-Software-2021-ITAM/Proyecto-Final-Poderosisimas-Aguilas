@@ -12,6 +12,6 @@ Decidimos usar una metodologia por prototipo, para mas detalles [Aqui](Metodolog
 ## ○ Ejemplo del proyecto
 Hicímos una página web como prototipo, la puedes ver [aquí](PaginaWeb.md)
 ## ○ Documentación para replicar
-
+Haga click [Aqui](Documentacion.md)
 ## ○ Propuesta económica
 Si quiere saber acerca de nuestra propuesta económica, haga click aquí  [Aqui](EstimacionesAguilasPF.xlsx)
