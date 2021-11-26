@@ -111,3 +111,4 @@ Decidimos usar una metodologia por prototipo, para mas detalles [Aqui](Metodolog
 ## ○ Documentación para replicar
 
 ## ○ Propuesta económica
+Si quiere saber acerca de nuestra propuesta económica, haga click aquí  [Aqui](EstimacionesAguilasPF.xlsx)
